@@ -1,3 +1,7 @@
 abdzbd
+<<<<<<< HEAD
 asdfgvhbj
 asdfgh
+=======
+>>>>>>> parent of dc63e8e (Thu tiep ne)
+sdfghb
